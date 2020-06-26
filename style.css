@@ -1,0 +1,107 @@
+/* Big Tags */
+body {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+h2 {
+  font-family: 'Solway', serif;
+}
+
+h3 {
+  font-family: 'Solway', serif;
+}
+
+h1 {
+  font-family: 'Solway', serif;
+}
+
+h4 {
+  font-family: 'Solway', serif;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h5 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+img {
+  width: 200px;
+  border-radius: 3px;
+  align-content: space-around;
+}
+
+/* Classes */
+
+.ReviewCard {
+  text-align: center;
+  width: auto;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.PricingCard {
+  padding-top: 15px;
+  text-align: center;
+
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+
+
+
+
+}
+
+.ContactInfo {
+  text-align: center;
+
+}
+
+.AboutusInfo {
+  text-align: center;
+
+
+}
+
+/* ID's */
+#ReviewTitle {
+  text-align: center;
+}
+
+#ContactUs_Title {
+  text-align: center;
+}
+
+#Footer {
+  background-color: #E0E0E0;
+}
+
+#Header {
+  background-image: url("images/Background.jpg");
+  width: auto;
+  background-repeat: no-repeat;
+  height: 600px;
+  background-size: cover;
+  background-origin: padding-box;
+  background-position: center;
+  color: black;
+
+}
+
+#Header p {
+  font-size: 17px;
+}
+
+#ContactUs_body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#Header_info {
+  padding-top: 350px;
+
+}
